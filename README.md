@@ -43,8 +43,8 @@
 > **Honor Code**
 >
 > 本仓库代码仅供**思路参考 (Reference Only)**，请避免可能带来误会的借鉴行为。
-> 请保持学术诚信，享受 Deep Learning 的乐趣。
+
 
 <div align="center">
-  <p>如果这个仓库对你有启发，可以给个 ⭐️ <strong>Star</strong> ！</p>
+  <p>享受 Deep Learning 的乐趣！如果这个仓库对你有启发，请给一个 ⭐️ <strong>Star</strong> ！</p>
 </div>
