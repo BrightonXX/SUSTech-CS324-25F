@@ -1,9 +1,10 @@
 <div align="center">
 
-# SUSTech CS324: Deep Learning
+# SUSTech CS324: My Assignments for Deep Learning
 
 ![Semester](https://img.shields.io/badge/Semester-2025_Fall-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Python_(PyTorch)-orange?style=flat-square&logo=python)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F&label=Visitors&countColor=%23263759)(https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F)
 
 📖 Language: **中文** | [English](./README_en.md)
 
@@ -25,11 +26,11 @@
 ## 📂 作业列表
 |  #  |           主题            |     核心内容       | 分数 |                                               亮点 / 额外探索                                                |                    Report                    |
 |:---:|:--------------------------------|----------------------------------|:---:|:----------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
-|  1  | **Perceptron & MLP (NumPy)**    | 反向传播、SGD/BGD 收敛分析      | 100 | 额外探究了 **Momentum** 对收敛速度的影响，以及 **Leaky ReLU** 的效果。                     | [📄 PDF](./Assignment1/12312710-report.pdf) |
-|  2  | **CNN & RNN (PyTorch)**         | VGG on CIFAR-10, RNN 梯度消失验证 | 100 | 对比了 Data Augmentation 与 Learning Rate Scheduler 的组合效果。 | [📄 PDF](./Assignment2/12312710-report.pdf) |
-|  3  | **LSTM & GAN**                  | LSTM 解决长序列依赖, GAN 生成手写数字 | 100 | 探索了 GAN 的 **Latent Space 插值** 与 **向量算术**                           | [📄 PDF](./Assignment3/12312710-report.pdf) |
+|  1  | **Perceptron & MLP (NumPy)**    | 反向传播、SGD/BGD 收敛分析      | 100 | 额外探究了 **Momentum** 对收敛速度的影响，以及 **Leaky ReLU** 的效果。                     | [Link](./Assignment1/12312710-report.pdf) |
+|  2  | **CNN & RNN (PyTorch)**         | VGG on CIFAR-10, RNN 梯度消失验证 | 100 | 对比了 Data Augmentation 与 Learning Rate Scheduler 的组合效果。 | [Link](./Assignment2/12312710-report.pdf) |
+|  3  | **LSTM & GAN**                  | LSTM 解决长序列依赖, GAN 生成手写数字 | 100 | 探索了 GAN 的 **Latent Space 插值** 与 **向量算术**                           | [Link](./Assignment3/12312710-report.pdf) |
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F&label=Visitors&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F)
+
 
 ## 🧠 建议 
 
@@ -46,7 +47,7 @@
 > [!CAUTION]
 > **Honor Code**
 >
-> 本仓库代码仅供**思路参考 (Reference Only)**，请勿直接复制用于作业提交。
+> 本仓库代码仅供**思路参考 (Reference Only)**，请避免可能带来误会的借鉴行为。
 > 请保持学术诚信，享受 Deep Learning 的乐趣。
 
 <div align="center">
