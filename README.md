@@ -1,17 +1,12 @@
 <div align="center">
 
-# SUSTech CS324: My Assignments for Deep Learning
+# SUSTech CS324 (Deep Learning) Assignments
 
 ![Semester](https://img.shields.io/badge/Semester-2025_Fall-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/Language-Python_(PyTorch)-orange?style=flat-square&logo=python)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F&label=Visitors&countColor=%23263759)(https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FBrightonXX%2FSUSTech-CS324-25F&label=Visitors&countColor=%23263759)
 
 📖 Language: **中文** | [English](./README_en.md)
-
-<p align="center">
-  <strong>南方科技大学 CS324 深度学习作业仓库</strong><br>
-  包含三次 Assignment 的完整源码与报告。
-</p>
 
 </div>
 
@@ -20,7 +15,7 @@
 **Semester:** 2025 Fall
 **Lecturer:** Prof. Jianguo Zhang
 
-本仓库归档了我在这门课程中的三次作业（Assignment 1-3）的源代码和详细报告。
+本仓库包含了我在 南方科技大学 CS324 深度学习 中三次Assignments的源代码和Reports。
 
 
 ## 📂 作业列表
