@@ -22,29 +22,30 @@
 
 
 ## 📂 作业列表
-|  #  |           主题            |     核心内容       | 分数 |                                               额外探索                                                |                    Link                    |
+|  #  |           主题            |     核心内容       | 分数 |                                               额外探索                                                |                    Report                    |
 |:---:|:--------------------------------|----------------------------------|:------:|:----------------------------------------------------------------------------------------------------------:|:--------------------------------------------:|
-|  1  | **Perceptron & MLP (NumPy)**    | 反向传播、SGD/BGD 收敛分析      | 100 | 额外探究了 **Momentum** 对收敛速度的影响，以及 **Leaky ReLU** 的效果。                     | [Report 1](./Assignment1/12312710-report.pdf) |
-|  2  | **CNN & RNN (PyTorch)**         | VGG on CIFAR-10, 探索 RNN 梯度消失 | 100 | 对比了 Data Augmentation 与 Learning Rate Scheduler 的组合效果。 | [Report 2](./Assignment2/12312710-report.pdf) |
-|  3  | **LSTM & GAN**                  | LSTM 解决长序列依赖, GAN生成MNIST  | 100 | 探索了 GAN 的 **Latent Space 插值** 与 **向量算术**                           | [Report 3](./Assignment3/12312710-report.pdf) |
+|  1  | **Perceptron & MLP (NumPy)**    | 反向传播、SGD/BGD 收敛分析      | 100 | 额外探究了 **Momentum** 对收敛速度的影响，以及 **Leaky ReLU** 的效果。                     | [Link 1](./Assignment1/12312710-report.pdf) |
+|  2  | **CNN & RNN (PyTorch)**         | VGG on CIFAR-10, 探索 RNN 梯度消失 | 100 | 对比了 Data Augmentation 与 Learning Rate Scheduler 的组合效果。 | [Link 2](./Assignment2/12312710-report.pdf) |
+|  3  | **LSTM & GAN**                  | LSTM 解决长序列依赖, GAN生成MNIST  | 100 | 探索了 GAN 的 **Latent Space 插值** 与 **向量算术**                           | [Link 3](./Assignment3/12312710-report.pdf) |
 
 
 ## 🧠 建议 
 
-### 1. 关于如何拿高分
-> **抓住 "What if" 的灵光一闪**
+### 1. 关于如何做得更好
+> **抓住灵光一闪**
 
 在完成基础作业要求的过程中，一般都会观察到一些反直觉现象或者某种“what if”的猜想。
-*   **抓住这个想法**，做一些 Extra 实验，既有意思又能帮助拿分。
+*   **抓住这个问题**，做一些 Extra 实验，既有意思又能帮助拿分。
 *   如果实在没有思路，可以尝试最简单的**不同参数对比**或者**消融实验**。
 
 ### 2. 如何写 Report
 > **平铺直叙，降低阅读门槛**
 
 Report 的核心原则是：**让人不用动脑子就能理解你做的工作和发现的结论。**
+
 不要写复杂或者太乱，客观清晰地展示图表和分析即可。
 
-*   💡 也许你可以参考我的 C++ 仓库报告风格：[SUSTech-CPP-Project](https://github.com/BrightonXX/SUSTech-CPP-Project)
+*   💡 也许你可以参考我的 C++ 仓库：[SUSTech-CPP-Project](https://github.com/BrightonXX/SUSTech-CPP-Project)
 
 ---
 
